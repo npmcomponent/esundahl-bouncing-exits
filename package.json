@@ -1,0 +1,14 @@
+{
+  "name": "esundahl-bouncing-exits",
+  "description": "bouncing exit animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-bounce-out": "git://github.com/npmcomponent/esundahl-bounce-out.git",
+    "esundahl-bounce-out-down": "git://github.com/npmcomponent/esundahl-bounce-out-down.git",
+    "esundahl-bounce-out-up": "git://github.com/npmcomponent/esundahl-bounce-out-up.git",
+    "esundahl-bounce-out-left": "git://github.com/npmcomponent/esundahl-bounce-out-left.git",
+    "esundahl-bounce-out-right": "git://github.com/npmcomponent/esundahl-bounce-out-right.git"
+  },
+  "license": "MIT"
+}
